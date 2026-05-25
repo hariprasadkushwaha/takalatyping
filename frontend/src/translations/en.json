@@ -1,0 +1,167 @@
+{
+  "brand": "Takala Typing",
+  "siteTitle": "Takala Typing M.P. Online Service Center",
+  "tagline": "Trusted digital help for government documents, farmer services, banking services, typing, printing and online work.",
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "kcc": "KCC Services",
+    "legal": "Banking Services",
+    "contact": "Contact Us"
+  },
+  "actions": {
+    "explore": "Explore Services",
+    "whatsapp": "WhatsApp Enquiry",
+    "call": "Call Now",
+    "submit": "Send on WhatsApp",
+    "viewAll": "View All Services"
+  },
+  "hero": {
+    "badge": "M.P. Online • KCC • Banking • Typing",
+    "title": "Takala Typing M.P. Online Service Center",
+    "subtitle": "Fast, reliable and professional support for forms, certificates, KCC work, banking services, Photoshop, printing and farmer services.",
+    "stats": ["Fast Service", "Trusted Guidance", "Digital Support"],
+    "floating": ["MP Online Forms", "KCC & Farmer Work", "Banking Services"]
+  },
+  "sections": {
+    "why": "Why Choose Us",
+    "services": "Popular Services",
+    "process": "Simple Process",
+    "testimonials": "Customer Trust",
+    "faq": "Frequently Asked Questions",
+    "contactCta": "Need help with a form or document?",
+    "about": "About Our Center",
+    "mission": "Mission",
+    "vision": "Vision",
+    "experience": "Experience & Trust",
+    "allServices": "Complete Services",
+    "kcc": "KCC & Farmer Services",
+    "legal": "Banking Services",
+    "contact": "Contact Us"
+  },
+  "why": [
+    "Clear guidance for government and online services.",
+    "Professional typing, printing, scanning and Photoshop work.",
+    "Farmer and KCC service support with careful document checks.",
+    "Friendly local assistance in Hindi and English."
+  ],
+  "process": [
+    "Share your requirement",
+    "Verify documents",
+    "Complete online work",
+    "Receive confirmation"
+  ],
+  "testimonials": [
+    {
+      "name": "Local Customer",
+      "text": "Quick support and proper guidance for certificate and online form work."
+    },
+    {
+      "name": "Farmer Service User",
+      "text": "Helpful service for KCC, e-KYC and farmer related online updates."
+    },
+    {
+      "name": "Document Client",
+      "text": "Good typing, printing and affidavit support in one place."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Which services are available?",
+      "a": "MP Online, KCC, farmer services, banking services, typing, printing, Photoshop, scanning, photocopy and document work."
+    },
+    {
+      "q": "Can I contact on WhatsApp?",
+      "a": "Yes, use the WhatsApp enquiry button or contact form to send your details directly."
+    },
+    {
+      "q": "What are the working hours?",
+      "a": "Monday to Saturday, 9:00 AM to 8:00 PM."
+    }
+  ],
+  "about": {
+    "intro": "Takala Typing is a professional M.P. Online Service Center serving Deori Sengran, Naigarhi and nearby areas with reliable digital, government, farmer, banking and document services.",
+    "mission": "To make online government and document services simple, accurate and accessible for every customer.",
+    "vision": "To become the trusted local digital service center for citizens, farmers, students, businesses and families.",
+    "trust": "We focus on careful document handling, clear communication and timely service.",
+    "counters": ["Service Categories", "Happy Customers", "Working Days", "Support Hours"]
+  },
+  "serviceGroups": {
+    "general": "General Services",
+    "mp": "MP Online Services",
+    "farmer": "KCC / Farmer Services",
+    "legal": "Banking Services"
+  },
+  "banking": {
+    "intro": "Support for bank account opening, loan enquiry, KYC updates, Aadhaar-bank linking, passbook work, bank correction and digital banking applications.",
+    "cardTitle": "Banking Help Desk",
+    "cardText": "Get organized assistance for banking forms, document checks, loan guidance and account related online services.",
+    "highlights": ["Account Opening", "Loan Support", "KYC & Corrections"]
+  },
+  "services": {
+    "photoshop": "Photoshop Work",
+    "mpOnline": "M.P. Online",
+    "typing": "Typing Work",
+    "printing": "Printing",
+    "govForms": "Government Forms",
+    "resume": "Resume Making",
+    "lamination": "Lamination",
+    "scan": "Scan & Photocopy",
+    "khasra": "Khasra",
+    "khatauni": "Khatauni",
+    "khatawar": "Khatawar",
+    "map": "Map",
+    "samagra": "Samagra ID",
+    "kyc": "KYC",
+    "farmerId": "Farmer ID",
+    "income": "Income Certificate",
+    "caste": "Caste Certificate",
+    "domicile": "Domicile Certificate",
+    "kccLoan": "KCC Loan / Farmer Credit Card",
+    "notice": "Notice Information",
+    "dairy": "Dairy Loan / Business",
+    "witness": "Two Witnesses",
+    "ekyc": "e-KYC",
+    "loanEntry": "Loan Entry",
+    "bankCorrection": "Bank Correction",
+    "openBankAccount": "Open Bank Account",
+    "savingsAccount": "Savings Account",
+    "currentAccount": "Current Account",
+    "personalLoan": "Personal Loan",
+    "businessLoan": "Business Loan",
+    "homeLoan": "Home Loan",
+    "vehicleLoan": "Vehicle Loan",
+    "bankKyc": "Bank KYC",
+    "passbookUpdate": "Passbook Update",
+    "aadhaarBankLink": "Aadhaar Bank Link",
+    "atmCardApply": "ATM Card Apply",
+    "mobileBanking": "Mobile Banking",
+    "loanConsultation": "Loan Consultation",
+    "otherBanking": "Other Banking Services",
+    "shapath": "Oath Letter",
+    "halfnama": "Affidavit Draft",
+    "affidavit": "Affidavit",
+    "marriage": "Marriage Registration",
+    "agreement": "Agreement",
+    "rent": "Rent Agreement",
+    "sale": "Sale Deed",
+    "birth": "Birth Certificate",
+    "death": "Death Certificate",
+    "will": "Will Registration",
+    "otherOnline": "Other Online Services"
+  },
+  "contact": {
+    "business": "Takala Typing",
+    "address": "Deori Sengran, Judmaniya Road, Teh. Naigarhi, District Mauganj (Madhya Pradesh)",
+    "phone": "+91 6266383257",
+    "whatsapp": "916266383257",
+    "email": "shivk81680@gmail.com",
+    "hours": "Monday to Saturday, 9:00 AM to 8:00 PM",
+    "name": "Name",
+    "phoneField": "Phone",
+    "service": "Select Service",
+    "message": "Message",
+    "placeholder": "Write your enquiry here..."
+  }
+}
